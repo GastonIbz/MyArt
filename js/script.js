@@ -12,6 +12,12 @@ document.addEventListener('DOMContentLoaded', function() {
         {img: './img/10.png'},
         {img: './img/11.png'},
         {img: './img/12.png'},
+        {img: './img/13.png'},
+        {img: './img/14.png'},
+        {img: './img/15.png'},
+        {img: './img/16.png'},
+        {img: './img/17.png'},
+        {img: './img/18.png'},
         
     ]
     let contador = 0
